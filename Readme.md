@@ -8,6 +8,7 @@
 
 
 # Marvel API
+    - https://marvel-qa-cademy.herokuapp.com/
 
 ## 🔖 Requisitos funcionais
 
